@@ -1,0 +1,23 @@
+#whole_thing {
+    text-align: center;
+    background-color: #FBEAEB;
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #2F3C7E;
+  }
+  
+  #sentence {
+    color: #2F3C7E;
+    font-size: 1.5em;
+    font-weight: 600;
+  }
+  
+  button {
+    background-color: #2F3C7E;
+    border: none;
+    color: #FBEAEB;
+    font-size: 2em;
+    padding: 1%;
+  }
